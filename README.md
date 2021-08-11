@@ -4,7 +4,7 @@
 quarkus/docker.
 - 💞️ I’m looking to collaborate on anything to be honest, I like to learn and I love technology. Collaborating on new projects gives me a chance to explore new areas
 of computer science.
-- 📫 How to reach me: aliasjadwork@gmail.com
+- 📫 How to reach me: aliasjadwork@gmail.com or aasjadd@uoguelph.ca
 
 <!---
 Ali-Asjad/Ali-Asjad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
