@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ali-Asjad
 - 👀 I’m interested in Web development and software development
-- 🌱 I’m currently learning Quarkus and its various components, te be more specific I am currently trying to understand how to use kafka messaging service with
-quarkus/docker.
+- 🌱 I’m currently learning how to efficiently load/stress test restful apis using various load testing softwares such as jmeter, wrk and k6.
 - 💞️ I’m looking to collaborate on anything to be honest, I like to learn and I love technology. Collaborating on new projects gives me a chance to explore new areas
 of computer science.
 - 📫 How to reach me: aliasjadwork@gmail.com or aasjadd@uoguelph.ca
